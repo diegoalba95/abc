@@ -6,19 +6,19 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/6ozsYtj.png" group-title="General",Canal Capital (1080p)
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol TV (720p) [Geo-blocked]
-https://uaegf6x7ej42hsba.cdnspectrum.net:8443/hls/9crzy2oktf5.m3u8?s=gp7X90rpsa4fNw6zIudghw&e=1693030772
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 2 [Geo-blocked]
-https://kp.fk9.pw:30443/edge/ver36f842235cb2728a0262cb3c16caf0c8/chunks.m3u8?nimblesessionid=244673&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDIzIDEyOjI5OjMxIEFNJmhhc2hfdmFsdWU9SWp4UGtYeGw5VXUxTERPZFdPdzI0dz09JnZhbGlkbWludXRlcz0xMjA=
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 3 [Geo-blocked]
-https://s01.castamp.com/live/Subtotal8045/chunklist.m3u8?h=GdeIRxN-jIgOKBXmOGy_KQ&e=1693038636&u=aa64e4ffd694299215c7fea662b206f4&d=134_56_252_54
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 4 [Geo-blocked]
 https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.rffsp3VkXvjN.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 2 [Geo-blocked]
+https://s01.castamp.com/live/Subtotal8045/chunklist.m3u8?h=KKaueho5rEiwAL0OBbPATw&e=1693299344&u=da322988d36ddf8c1c7cf54193bd4e52&d=134_56_252_54
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 3 [Geo-blocked]
+https://uaegf6x7ej42hsba.cdnspectrum.net:8443/hls/9crzy2oktf5.m3u8?s=-FEJK9wBtCFo-6OUpRyWvg&e=1693292181
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 4 [Geo-blocked]
+https://kp.fk9.pw:30443/edge/ver36f842235cb2728a0262cb3c16caf0c8/chunks.m3u8?nimblesessionid=640239&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIzIDEyOjU2OjQ0IEFNJmhhc2hfdmFsdWU9UlBub2tERHNUdDhpZ2FKSXNid3gyUT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1 tvg-id="RCN", RCN 1
-https://s01.castamp.com/live/Onyx3776/chunklist.m3u8?h=j3DLKwXLAbcLFAN9W3vpbw&e=1693038788&u=02226272aad70f6769984c8dc3aa085b&d=134_56_252_54
+https://s01.castamp.com/live/Onyx3776/chunklist.m3u8?h=QPQOBU_BOasPFwkV6MCRzQ&e=1693299460&u=f13e0704644b1652bc8bfad8c5b2695e&d=134_56_252_54
 #EXTINF:-1 tvg-id="RCN", RCN 2
-https://s01.castamp.com/live/Untimed9527/chunklist.m3u8?h=gkxVB6yVhaee8Q4tjUG1tQ&e=1692970354&u=a0e984e2254d83bb36d33caa8684bce2&d=134_56_252_54
+https://uaegf6x7ej42hsba.cdnspectrum.net:8443/hls/ndazjhsdjr5o.m3u8?s=mZCt0StqLRRRMYHULsSCdw&e=1693292276
 #EXTINF:-1 tvg-id="RCN", RCN 3
-https://uaegf6x7ej42hsba.cdnspectrum.net:8443/hls/ndazjhsdjr5o.m3u8?s=HupT1P3Ud6xC7PnXMgkyoQ&e=1693031668
+https://kp.fk9.pw:30443/edge/verf41fb7c7c9feb60d943f99be061fa039/chunks.m3u8?nimblesessionid=640320&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIzIDEyOjU4OjEzIEFNJmhhc2hfdmFsdWU9RWh6VThiblJMUDhqdDFhR0JKalZwQT09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1 tvg-id="CNN", CNN 1
 https://1942468522.rsc.cdn77.org/c2aLUda7VcTT1scYRWf7oQ==,1693020954/1942468522/index.m3u8
 #EXTINF:-1 tvg-id="CNN", CNN 2
