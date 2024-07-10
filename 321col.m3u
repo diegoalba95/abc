@@ -15,6 +15,8 @@ https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/sy0j1iog.m3u8?s=mc1dCM2fLa
 https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/8xqsoo.m3u8?s=Uiq6iOepNssxc2C74Z4dfg&e=1720677180
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 5
 https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/vh4zi.m3u8?s=cHckrI6Qi681LtYjyGXH1Q&e=1720677325
+#EXTINF:-1 tvg-id="Caracol HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 5
+https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/5mubk7m6.m3u8?s=iJ9EoInCFFUqIOP6R_iC8w&e=1720677518
 #EXTINF:-1 tvg-id="RCN", RCN 1
 https://ymy7utmtwxtsb8p2.cdnreinforce.net:8443/hls/x34q1ifks9dz8xl.m3u8?s=8lgEyGhtoB1lhkNpfPQNbw&e=1704011306
 #EXTINF:-1 tvg-id="RCN", RCN 2
@@ -26,9 +28,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac
 #EXTINF:-1 tvg-id="WRADIO", W RADIO
 https://26663.live.streamtheworld.com/WRADIOAAC.aac
 #EXTINF:-1 tvg-id="Caracol 2", Caracol 2
-https://cdn.tvcolfta.xyz/static/streaming-playlists/hls/2eec9b05-e53c-45ba-8055-7dee2e376bf5/0.m3u8
+https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/3nlctoncyc5d8l.m3u8?s=LG5s4LXxkpB2MdOv7LZ7sg&e=1720677402
 #EXTINF:-1 tvg-id="Caracol 2_2", Caracol 2_2
-https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/sy0j1iog.m3u8?s=Jua6fCYuPnsUZKFqMfSEOA&e=1719991509
+https://hls.tdtcolombiana.com/static/streaming-playlists/hls/1536442d-6135-49a0-b0cd-bcfc82b8c42b/0.m3u8
 #EXTINF:-1 tvg-id="NoticiasCaracolAhora.co" tvg-logo="https://i.imgur.com/FLt0fwa.png" group-title="News",Noticias Caracol Ahora (720p) [Not 24/7]
 https://s01.castamp.com/live/Exploring0037/chunklist.m3u8?h=ixybNPrKEExaTax3o3EGiQ&e=1693038999&u=08e3eeb2978b5c38ffcb3a90bffd91b4&d=134_56_252_54
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
