@@ -5,13 +5,19 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-id="RCN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",RCN 1
+https://www.dailymotion.com/cdn/live/video/x7wkq7p.m3u8?sec=EATuwKg47KDt8kNMYcjTIdRaNP0lo2BNlqxdxCumNhVoZbNcr5Kyffgr4pyG4GF-&dmTs=691306&dmV1st=37d21073-f11a-46f4-8df8-768c188ad5a5
+#EXTINF:-1 tvg-id="RCN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",RCN 2
+https://live-c2.cf.dmcdn.net/sec2(wQc1Hdy1uDSF90FI3PANwLUeKPlLmV5I98Tp2IsQRqv4JdNsMbtAB50Ox2q74iq_0sTbtnU_f8Jj4PwYlU85o0FWOPtMGbN1A2YXDyjMFFA)/cloud/3/x7wkq7p/s/live-0.m3u8#cell=lcfc2
+#EXTINF:-1 tvg-id="RCN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",RCN 3
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7wkq7p.m3u8?auth=1721339840-2562-pft0ehsu-a4d9508f65585cdf38296ef6f28782eevhH7bg-Tv8ODes4eG4G0J1ak6xleyIP0M_DlFUXBxvHScTUvo6N_eXv1qdU8Wzk-a9W55ENDAroCKMgigrElN23ACvTD85Ezc6fgEB8RBjl1Uwcor6Z--QSqNXM5b8IwffbErEX4QywEUVaxayN4KqC-11WacL0om8mZPoRY-Uuy_nmdsNXZ-KbASc4RtR_ChcSrZ76lzZmo0mWkRF1Ucuxa7ISIUY5FXlPOMaQtbWyrXu0ejTKS8_h-8zp1mDy-5lDK_Ovau9ciRmB4BvCXEffTrGE24ClZrlgrLsDmRMF7YN03kDtNuMk20hKyhP3tFt_UzTf0Yx0dhl9S3KNSIpUQYjmV7CIor2ujkqdGz7P5qetoUZwt24tTnpJGWVvHWLlA_ywifOqOiQTCdDTjGb1uRrWyypk5SCdTA4qgjClcVXU5lYAu3g_QHxi0j6Vk-If5afLN8wxRHeXaZf8AmF7SMv9gbfm-UVWuEvzVKrqjUC2LID87N1h9FCFmfRU9zgAUJiy8Cv-mXk2-9wnbl4dCir8SBtVnWxijKUWS1oL9yzcBU8YXwpUDJabIYKYWmjE0aVLpaBlZ3rWrmvf0-rvsertArfabaz1lfIFrefNt8ARK_4efRi89VEb3nLObodnT6wfCXRVfJ0Q6TQ0NuI1znPDL_R3BG4xgkhM5rv2O6mZqofn6X-sz0TFHIHykbRljSQZbqnoU35PoD3MhLNjTcTGp9i0VP_WYegdvCpXbct9Mzbn9ICJkbyccfwCoZ0AvzjGoH7ZasCcVcrOJoF3S7gyft9Pj4JUutw9iUKp9jaIPZWHdCcjXI4mK2sg9T4VwmhxCdPiQgp8q-dgM68s_4TAyXAP0jpRsjvG0fDEYEUuQpX7Hq6J-Tv8zksHCPy8ljzH6Qsve-GBWpzsZt8s9A2kj1KA0l2KIKdVvQV1Gd2qaf2qO-__voTViKLuJO2IXudWa9vKlDURbDKyE3CtpEizZXwvNsm3K3lGKrjCPWOJch9dEoEziJEWp8tN4GKfroVR8Bu9MwT-zJOqY8BYYiQHbdoAhp-PoR-LLmtSHhpafT4gMO3HJByVkoQx7w&af=2%2C7%2C8%2C9&vv=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C11%2C12%2C13%2C14&ps=1362x710&td=www.canalrcn.com&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---&vl=10&ciid=1i2uopjb661bc76d1d6_VMAP_0_0&cidx=0&sidx=0&rap=1&vidIdx=0&omp=Dailymotion%2F1.0&omn=0&imal=1&3pcb=0&cdep=label_only_5
 #EXTINF:-1 tvg-id="CityTV", CityTV
 https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
 #EXTINF:-1 tvg-id="RCNxtra", RCN xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WRADIO", W RADIO
+#EXTINF:-1 tvg-id="WRADIO1", W RADIO 1
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac
-#EXTINF:-1 tvg-id="WRADIO", W RADIO
+#EXTINF:-1 tvg-id="WRADIO2", W RADIO 2
 https://26663.live.streamtheworld.com/WRADIOAAC.aac
 #EXTINF:-1 tvg-id="NoticiasCaracolAhora.co" tvg-logo="https://i.imgur.com/FLt0fwa.png" group-title="News",Noticias Caracol Ahora (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
