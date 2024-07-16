@@ -1,41 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cablenoticias.co" tvg-logo="https://i.imgur.com/FfhOGR9.png" group-title="News",Cablenoticias (1080p)
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General",Canal 1 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/6ozsYtj.png" group-title="General",Canal Capital (1080p)
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol TV (720p)
-https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/sy0j1iog.m3u8?s=Fg3XlSQngjhvaLunUDDqjw&e=1720678514
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 2
-https://hls.tdtcolombiana.com/static/streaming-playlists/hls/0b111256-9c4a-4e63-89ad-78e9ebbc1487/0.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 3
-https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/sy0j1iog.m3u8?s=mc1dCM2fLa9TW_nIB5dShQ&e=1720677175
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 4
-https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/8xqsoo.m3u8?s=Uiq6iOepNssxc2C74Z4dfg&e=1720677180
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 5
-https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/vh4zi.m3u8?s=cHckrI6Qi681LtYjyGXH1Q&e=1720677325
-#EXTINF:-1 tvg-id="Caracol HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol 5
-https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/5mubk7m6.m3u8?s=iJ9EoInCFFUqIOP6R_iC8w&e=1720677518
-#EXTINF:-1 tvg-id="RCN", RCN 1
-https://ymy7utmtwxtsb8p2.cdnreinforce.net:8443/hls/x34q1ifks9dz8xl.m3u8?s=8lgEyGhtoB1lhkNpfPQNbw&e=1704011306
-#EXTINF:-1 tvg-id="RCN", RCN 2
-https://s01.castamp.com/live/rcnhdcol/chunklist.m3u8?h=Ymk4poKJ7B8a3g8XEQeLig&e=1704018538&u=780bf16268f9c6fea14d3eda549042bd&d=134_56_252_54
-#EXTINF:-1 tvg-id="RCN", RCN 3
-https://ymy7utmtwxtsb8p2.cdnreinforce.net:8443/hls/x34q1ifks9dz8xl.m3u8?s=IfG9MoXHWrHaeIEb_ECCzg&e=1704011369
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol TV
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-id="CityTV", CityTV
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+#EXTINF:-1 tvg-id="RCNxtra", RCN xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WRADIO", W RADIO
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC.aac
 #EXTINF:-1 tvg-id="WRADIO", W RADIO
 https://26663.live.streamtheworld.com/WRADIOAAC.aac
-#EXTINF:-1 tvg-id="Caracol 2", Caracol 2
-https://jrbsa4zckn68y3pmxh7teg.cdnkidney.net:8443/hls/3nlctoncyc5d8l.m3u8?s=LG5s4LXxkpB2MdOv7LZ7sg&e=1720677402
-#EXTINF:-1 tvg-id="Caracol 2_2", Caracol 2_2
-https://hls.tdtcolombiana.com/static/streaming-playlists/hls/1536442d-6135-49a0-b0cd-bcfc82b8c42b/0.m3u8
 #EXTINF:-1 tvg-id="NoticiasCaracolAhora.co" tvg-logo="https://i.imgur.com/FLt0fwa.png" group-title="News",Noticias Caracol Ahora (720p) [Not 24/7]
-https://s01.castamp.com/live/Exploring0037/chunklist.m3u8?h=ixybNPrKEExaTax3o3EGiQ&e=1693038999&u=08e3eeb2978b5c38ffcb3a90bffd91b4&d=134_56_252_54
+https://ythls.armelin.one/channel/UC2Xq2PK-got3Rtz9ZJ32hLQ.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (1080p)
-https://cdn.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General",Señal Colombia (1080p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
