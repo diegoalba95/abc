@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Undefined",Caracol TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",RCN
-https://live-c2.cf.dmcdn.net/sec2(reT0fWuQUxzrz1ObTyA4pAHScfjXGfqscJZn0EiE_YWzBWojvIbFfpzhf8fq014TK8VEIQiufYcOucGoKU8p9RPrQPZ-WbbCJr1V-jS5epdg8v8GfahIl4vrvZRLaVrF)/cloud/3/x7vyv0z/s/live-720.m3u8#cell=lcfc2
+https://cdn-live-rcn-tkdrm-edge1.tbxdrm.com/bcdn_token=j1JSptkFjIcdy1Y46M280msmExwGfZflUd1gHVkw4WY&token_path=%2Frcn%2F&expires=1737883613/rcn/master.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General",Canal 1 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/6ozsYtj.png" group-title="General",Canal Capital (1080p)
