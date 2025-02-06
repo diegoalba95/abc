@@ -19,3 +19,5 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General",Señal Colombia (1080p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,RCN
+https://cdn-live-rcn-tkdrm-edge1.tbxdrm.com/bcdn_token=R4XY2ZzBaSjxPtHzf87Ha1j3EHQCD2_h16mEyY8ny2w&token_path=%2Frcn%2F&expires=1738829816/rcn/manifest.mpd
