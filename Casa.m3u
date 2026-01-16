@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1, Principal
-https://362a33c2a385d7d1e52d89d1afce3a397378a5f0.cdn.broadpeak.io/out/v1/e44a443b3d664bd0926e3723b0a0e89e/index.m3u8
-#EXTINF:-1, Bano
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",Principal
+https://362a33c2a385d7d1e52d89d13314f6f8715a1ce0.cdn.broadpeak.io/bcdn_token=SS3b7wgfWE0Y88Pu1bLVPiR3rIvePoK_T5MR1cFMnhE&token_ignore_params=true&token_path=%2Fout%2Fv1%2F9b17b55c49d34dd097f52b18a6767046%2F&expires=1768562953/out/v1/9b17b55c49d34dd097f52b18a6767046/index.m3u8
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",Bano
 https://362a33c2a385d7d1e52d89d137177abf95867a9c.cdn.broadpeak.io/out/v1/716c44a46dcd41ee9867c34a05629148/index.m3u8
-#EXTINF:-1, Sala
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined", Sala
 https://362a33c2a385d7d1e52d89d14b44d82189f3b005.cdn.broadpeak.io/out/v1/8b6386c3b5b04a32a352b6733a1e4076/index.m3u8
-#EXTINF:-1, Comedor
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",Comedor
 https://362a33c2a385d7d1e52d89d193726049d4c6f2b5.cdn.broadpeak.io/out/v1/9b4db7f07f2649bfa08ff64bebf645ab/index.m3u8
-#EXTINF:-1,Calma
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",Calma
 https://362a33c2a385d7d1e52d89d16ee35d1dfc176f14.cdn.broadpeak.io/out/v1/d83befaabe9a48f5b91442f94381a05c/index.m3u8
-#EXTINF:-1,Tormenta
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",Tormenta
 https://362a33c2a385d7d1e52d89d1da7baa134b402264.cdn.broadpeak.io/out/v1/3bc1539f7d76446f9d6f2fbfec9bdb92/index.m3u8
-#EXTINF:-1,Beauty
+#EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",Beauty
 https://362a33c2a385d7d1e52d89d101e79577bbd89733.cdn.broadpeak.io/out/v1/a594ca8f59574625b7da7947f00967f2/index.m3u8
