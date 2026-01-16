@@ -24,7 +24,7 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="General",Señal Colombia (1080p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1, Principal
-https://362a33c2a385d7d1e52d89d1afce3a397378a5f0.cdn.broadpeak.io/out/v1/e44a443b3d664bd0926e3723b0a0e89e/index.m3u8
+https://362a33c2a385d7d1e52d89d13314f6f8715a1ce0.cdn.broadpeak.io/bcdn_token=SS3b7wgfWE0Y88Pu1bLVPiR3rIvePoK_T5MR1cFMnhE&token_ignore_params=true&token_path=%2Fout%2Fv1%2F9b17b55c49d34dd097f52b18a6767046%2F&expires=1768562953/out/v1/9b17b55c49d34dd097f52b18a6767046/index.m3u8
 #EXTINF:-1, Bano
 https://362a33c2a385d7d1e52d89d137177abf95867a9c.cdn.broadpeak.io/out/v1/716c44a46dcd41ee9867c34a05629148/index.m3u8
 #EXTINF:-1, Sala
