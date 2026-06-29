@@ -16,7 +16,7 @@ https://edge.cdnlivetv.ru/secure/api/v1/us-hbo/playlist.m3u8?token=0daad7a431cec
 #EXTINF:-1 tvg-id="RCN", HBO 2
 http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="RCN", HBO 3
-
+https://p11.magicplaces.eu/hbohd/video.m3u8?token=79304e87c5f7738a62ec7d42acf4ff414d1217d7d08f6e6b17d7f364491dd6c1.1782695705
 #EXTINF:-1 tvg-id="RCN", HBO 4
 
 #EXTINF:-1 tvg-id="RCN", HBO 5
