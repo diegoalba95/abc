@@ -11,6 +11,18 @@ https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-gdai/574463697b9817cf0886fc17/
 https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-gdai/574463697b9817cf0886fc17/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/bcc5df68-ed5e-45e8-93dc-d7b9c72009ff:TUL/master.m3u8?aid=574462d1cab0f4d50866f001&uid=VeSUSATBpHltdUjm4oFQhBJtkExRRtI5&sid=lw7ZPiKwyUy9Q4DSlUptim4VFNhuToFg&pid=foWMS3q2XRxU2Bt2CQcgTRyZGVoftLRD&pid_dvr=ZAlSI0BQo22yiGo8noWjjAkWZnLnAgJg&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=CEc46G6q5v9NzlAUQZY9JMSYTLRk1A0FCSh3NpkMozwzxITAAeEybGajrcsYpVJdrUDSnQXdowL&adInsertionGoogleStreamId=bcc5df68-ed5e-45e8-93dc-d7b9c72009ff%3ATUL&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22foWMS3q2XRxU2Bt2CQcgTRyZGVoftLRD%22%2Csu&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1781873254328&ot=k6i6PQp9OMb_VPr138jc_g&proto=https&pz=us
 #EXTINF:-1 tvg-id="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Undefined",RCN
 https://cdn-live-rcn-tkdrm-edge1.tbxdrm.com/bcdn_token=j1JSptkFjIcdy1Y46M280msmExwGfZflUd1gHVkw4WY&token_path=%2Frcn%2F&expires=1737883613/rcn/master.m3u8
+#EXTINF:-1 tvg-id="RCN", HBO 1
+https://edge.cdnlivetv.ru/secure/api/v1/us-hbo/playlist.m3u8?token=0daad7a431cece8f3c581b2b9a5c61e0b9644f05ae7d53a9b7760b6c8506ff83.1779784319.5d4e82253234f39cb639f2bdf8a26ae8.b3dc887b943bc5135d32c84e572f4d7d.e71680548b3adb908f06186a8e327ebe&signature=bd75d1689adabbf4c7a336cf15af5b67b5e68493c08fd36ca52e35d73faf867e
+#EXTINF:-1 tvg-id="RCN", HBO 2
+http://103.213.31.111/HBOHD/index.m3u8
+#EXTINF:-1 tvg-id="RCN", HBO 3
+
+#EXTINF:-1 tvg-id="RCN", HBO 4
+
+#EXTINF:-1 tvg-id="RCN", HBO 5
+
+#EXTINF:-1 tvg-id="RCN", HBO 6
+
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General",Canal 1 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/6ozsYtj.png" group-title="General",Canal Capital (1080p)
